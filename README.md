@@ -4,7 +4,7 @@ Github Followers Real Indonesia
 # Installer
 `pip install PyGithub`
 
-# Pelanggran
+# Warning
 
 Untuk membuat skrip Python yang dapat menambahkan followers ke akun GitHub secara otomatis, penting untuk diketahui bahwa hal tersebut melanggar Terms of Service GitHub. GitHub memiliki kebijakan yang ketat terhadap manipulasi followers, likes, atau aktivitas lainnya yang tidak organik. Melakukan hal tersebut dapat mengakibatkan akun Anda di-banned atau di-suspend.
 
